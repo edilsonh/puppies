@@ -1,0 +1,104 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+}
+
+.main_navigation{
+  padding: 20px 0 20px 0;
+}
+
+.main_navigation a {
+  color: white;
+  border: 1px solid white;
+  padding: 10px 30px 10px 30px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+header {
+  background-color: #ff8523;
+  padding: 15px;
+}
+
+h2, h3 {
+  color: #1fabe5;
+}
+
+#page_content {
+  padding: 15px;
+}
+
+ul {
+  font-weight: bold;
+}
+
+section {
+  border-bottom: 5px solid #dddddd;
+  padding-bottom: 50px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table tbody td {
+    border: 1px solid #1fabe5;
+
+}
+
+table thead td {
+  border: 1px solid #046c97;
+  padding: 10px;
+  background-color: #1fabe5;
+  color: white;
+
+}
+
+form {
+  background-color: #dddddd;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.name {
+  background-color: #ff8523;
+  color: white;
+  padding: 30px;
+  border-radius: 5px;
+}
+
+.name input {
+  font-size: 35px;
+  padding: 0;
+}
+
+.city_container {
+  padding: 20px 0 20px 0;
+}
+
+textarea {
+  border-color: #1fabe5;
+  font-size: 20px;
+  width: 99%;
+}
+
+#first_name, #last_name {
+  padding-bottom: 25px;
+}
+
+#submit_button {
+  background-color: #1fabe5;
+  padding: 20px;
+  border-radius: 5px;
+  text-transform: uppercase;
+  color: white;
+  font-weight: bold;
+  border: none;
+  margin-top: 30px;
+}
+
+table img {
+  width: 50px;
+}
